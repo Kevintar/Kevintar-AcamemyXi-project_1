@@ -1,0 +1,35 @@
+/* Desktop viewport */
+@media screen and (min-width: 1024px) {
+body{background-color: #ff93c7;}
+
+  }
+img{width: 200px;
+  height:200px;
+  display: inline-block;
+}
+
+  /* Tablet viewport */
+
+  @media screen and (min-width: 600px) and (max-width:1023px)
+  {
+    body {
+      background-color: #ff93c7;;
+      font-size: 90%;
+     
+    }
+    img{width: 150px;
+      height:150px;
+}
+
+    
+  }
+
+  /* Smartphone viewport */
+  @media screen and (max-width:599px){
+    body {
+        background-color: #ff93c7;
+        font-size: 80%;
+      }
+      img{width: 90px;
+      height:90px;}
+  }
