@@ -20,7 +20,7 @@ body{background-color: #f5d2e8;}
   @media screen and (max-width:599px){
     body {
         background-color: #fef1de;
-        font-size: 150%;
+        font-size: 140%;
       }
       .cake{width: 60px;}
   }
