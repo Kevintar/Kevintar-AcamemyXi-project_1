@@ -11,7 +11,7 @@ body{background-color: #f5d2e8;}
   {
     body {
       background-color: #bdfac3;
-      font-size: 90%;
+      font-size: 120%;
     }
     .cake{width: 80px;}
   }
@@ -20,7 +20,7 @@ body{background-color: #f5d2e8;}
   @media screen and (max-width:599px){
     body {
         background-color: #fef1de;
-        font-size: 80%;
+        font-size: 140%;
       }
       .cake{width: 60px;}
   }
